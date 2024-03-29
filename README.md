@@ -25,7 +25,3 @@ Provides a form for submitting quote requests and includes contact information w
 ## Setup
 
 Clone this repository and navigate to the project directory. The site assets are located within the `css` and `images` folders. Make sure to host the `normalize.css` and other CSS files properly referenced in the HTML.
-
-```bash
-git clone https://github.com/yourusername/hallogistiikka.git
-cd hallogistiikka
